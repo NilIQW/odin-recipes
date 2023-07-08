@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: lightsalmon;
+}
+.recipe-list {
+    padding: 30px;
+}
+
+img {
+        display: block;
+        width: 50%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+    }
+
+
+
+h1 {
+    color: rgba(111, 38, 11, 0.661);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding-top: 20px;
+}
+
+ul li {
+    list-style: none;
+    margin-bottom: 20px;    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
